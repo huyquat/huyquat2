@@ -1,0 +1,5 @@
+ds=input('Nhap chuoi:').split()
+ds.append('abc')
+print(ds)
+ds.remove('abc')
+print(ds)
